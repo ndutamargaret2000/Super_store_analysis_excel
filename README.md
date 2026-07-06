@@ -18,3 +18,7 @@ I analyzed a super store dataset to answer various business questions about sale
  - East region generated the highest profit.
 - Consumer segment produced the highest sales.
 - Technology is the top-performing category.
+
+## Dashboard
+
+![Executive Sales Dashboard](Superstore%20Dashboard.png)
